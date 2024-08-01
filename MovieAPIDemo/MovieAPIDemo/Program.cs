@@ -35,7 +35,7 @@ app.UseRouting();
 // Sử dụng tệp tĩnh
 app.UseStaticFiles(new StaticFileOptions
 {
-    FileProvider = new PhysicalFileProvider(@"C:\GitHub_work_Home_net8\reactNet_API\Delete"),
+    FileProvider = new PhysicalFileProvider(@"D:\Code\API\React_NetAPI\Delete"),
     RequestPath = "/StaticFiles"
 }); 
 
