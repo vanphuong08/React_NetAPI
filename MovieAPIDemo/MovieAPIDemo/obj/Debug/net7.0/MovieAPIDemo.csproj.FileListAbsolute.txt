@@ -1,0 +1,158 @@
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\appsettings.Development.json
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\appsettings.json
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\MovieAPIDemo.exe
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\MovieAPIDemo.deps.json
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\MovieAPIDemo.runtimeconfig.json
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\MovieAPIDemo.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\MovieAPIDemo.pdb
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Azure.Core.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Azure.Identity.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Humanizer.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.CodeDom.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.csproj.AssemblyReference.cache
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.AssemblyInfoInputs.cache
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.AssemblyInfo.cs
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.csproj.CoreCompileInputs.cache
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets.build.json
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets.development.json
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets\msbuild.MovieAPIDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.MovieAPIDemo.props
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MovieAPIDemo.props
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MovieAPIDemo.props
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\scopedcss\bundle\MovieAPIDemo.styles.css
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPI.51ADEE2E.Up2Date
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\refint\MovieAPIDemo.dll
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.pdb
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.genruntimeconfig.cache
+C:\GitHub_work_Home_net8\react Net API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\ref\MovieAPIDemo.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\appsettings.Development.json
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\appsettings.json
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\MovieAPIDemo.exe
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\MovieAPIDemo.deps.json
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\MovieAPIDemo.runtimeconfig.json
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\MovieAPIDemo.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\MovieAPIDemo.pdb
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\AutoMapper.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Azure.Core.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Azure.Identity.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Humanizer.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.CodeDom.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.csproj.AssemblyReference.cache
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.AssemblyInfoInputs.cache
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.AssemblyInfo.cs
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.csproj.CoreCompileInputs.cache
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets.build.json
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets.development.json
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets\msbuild.MovieAPIDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.MovieAPIDemo.props
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MovieAPIDemo.props
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MovieAPIDemo.props
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\scopedcss\bundle\MovieAPIDemo.styles.css
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPI.51ADEE2E.Up2Date
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\refint\MovieAPIDemo.dll
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.pdb
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\MovieAPIDemo.genruntimeconfig.cache
+C:\GitHub_work_Home_net8\reactNet_API\MovieAPIDemo\MovieAPIDemo\obj\Debug\net7.0\ref\MovieAPIDemo.dll
